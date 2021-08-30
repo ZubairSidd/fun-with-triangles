@@ -144,3 +144,7 @@ h3,
 h4 {
   margin: 1rem 0;
 }
+
+.areaSection {
+  flex-direction: column;
+}
